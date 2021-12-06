@@ -7,6 +7,8 @@ Things you may want to cover:
 
 * TEST MESSAGE
 
+* TEST MESSAGE 2
+
 * Ruby version
 
 * System dependencies
